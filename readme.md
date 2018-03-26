@@ -1,1 +1,1 @@
-##This repository for training git in iPasstion
+##This repository for training git in iPassion
